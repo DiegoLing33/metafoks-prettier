@@ -1,8 +1,7 @@
 {
-  "name": "@redeco-core/prettier",
-  "version": "1.0.1",
+  "name": "@redeco-platform/prettier",
+  "version": "1.0.0",
   "description": "Redeco Prettier config",
   "main": "index.json",
-  "author": "Yakov Foks <yakov@redeco.app>",
-  "license": "MIT"
+  "author": "Yakov Foks <yakov@redeco.app>"
 }
