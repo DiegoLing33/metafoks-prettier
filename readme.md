@@ -1,7 +1,7 @@
 # Install prettier
 
 ```shell
-nmp i @redeco-platform/prettier
+nmp i @metafoks/prettier
 ```
 
 Then set prettier in your `package.json`:
@@ -9,7 +9,7 @@ Then set prettier in your `package.json`:
 ```json5
 {
   // ...
-  "prettier": "@redeco-platform/prettier",
+  "prettier": "@metafoks/prettier",
   // ...
 }
 ```

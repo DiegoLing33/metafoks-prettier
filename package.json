@@ -1,9 +1,9 @@
 {
-  "name": "@redeco-platform/prettier",
-  "version": "1.0.1",
-  "description": "Redeco Prettier config",
+  "name": "@metafoks/prettier",
+  "version": "1.0.0",
+  "description": "Metafoks Prettier config",
   "main": "index.json",
-  "author": "Yakov Foks <yakov@redeco.app>",
+  "author": "Yakov Foks <notafoks@yandex.ru>",
   "peerDependencies": {
     "prettier": ">=3"
   }
