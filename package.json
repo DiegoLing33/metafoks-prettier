@@ -6,5 +6,8 @@
   "author": "Yakov Foks <notafoks@yandex.ru>",
   "peerDependencies": {
     "prettier": ">=3"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
